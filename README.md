@@ -15,11 +15,9 @@
 - [Installation](#installation)
 - [Run Tests](#run-tests)
 - [Model Performance](#model-performance)
-
 - [Author](#author)
 - [License](#license)
 
-<br>
 <br>
 
 ---
